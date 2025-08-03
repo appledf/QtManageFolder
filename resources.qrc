@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/setting.png</file>
+        <file>icons/search.png</file>
+        <file>style/stylePushButton.qss</file>
+        <file>icons/logo.png</file>
+    </qresource>
+</RCC>
